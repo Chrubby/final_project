@@ -1,0 +1,8 @@
+gem5 Simulator System.  http://gem5.org
+gem5 is copyrighted software; use the --copyright option for details.
+
+gem5 compiled Jun 20 2025 05:35:11
+gem5 started Jun 20 2025 05:37:01
+gem5 executing on Ubuntu, pid 18981
+command line: ./build/X86/gem5.opt -d out_wt --debug-flags=Cache,CacheWrite configs/example/se.py -c benchmark/benchmark/quicksort --cpu-type=TimingSimpleCPU --caches --l2cache --l3cache --l3_size=64kB --l3_assoc=2 --l1i_size=32kB --l1d_size=32kB --l2_size=128kB --mem-type=NVMainMemory --nvmain-config=../NVmain/Config/PCM_ISSCC_2012_4GB.config
+
